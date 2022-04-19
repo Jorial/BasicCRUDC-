@@ -1,0 +1,15 @@
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\bin\Debug\net6.0-windows\CapaDato.deps.json
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\bin\Debug\net6.0-windows\CapaDato.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\bin\Debug\net6.0-windows\CapaDato.pdb
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.csproj.AssemblyReference.cache
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.AssemblyInfoInputs.cache
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.AssemblyInfo.cs
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.csproj.CopyComplete
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\refint\CapaDato.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\CapaDato.pdb
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\BasicCRUD\CapaDato\obj\Debug\net6.0-windows\ref\CapaDato.dll
